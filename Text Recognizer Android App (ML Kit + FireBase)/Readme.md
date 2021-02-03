@@ -1,11 +1,25 @@
-# Scraping Text data form Invoice.
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg) ![PIL](https://img.shields.io/badge/PIL-1.1.7-blueviolet) ![pytesseract](https://img.shields.io/badge/pytesseract-0.3.4-yellow)
+# Text Recognizer Android App (FireBase + ML Kit)
+<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
-Here I've used Python+pytesseract+PIL+Text Processing techniques for scraping text written into an Invoice image. After scraping the raw text, I've performed text pre processing and stored each column values of Invoice into a Dictionary form in a format of Key Value Pairs.
+Optical Charecter Recognition (OCR) is the ability that gives a mobile to read text appears in an image. We will create Android App that uses FireBase & ML Kit to recognize texts from Image. It runs on Android device. User needs to upload image from their gallery into the app to extract text from it. Go through the video tutorial below which explains the working of application in detail.
 
-### View ScreenRecording for Live Demo.
-[![Demo Doccou alpha](https://github.com/amark720/NLP-Projects/blob/main/Scraping%20Text%20Data%20from%20Invoice/InvoiceToText%20Recording.gif)](https://github.com/amark720/NLP-Projects/blob/main/Scraping%20Text%20Data%20from%20Invoice/InvoiceToText%20Recording.gif)
+## ScreenRecording:
+[![Demo Doccou alpha](https://github.com/amark720/Machine-Learning-Projects/blob/main/Text%20Recognizer%20Android%20App%20(ML%20Kit%20%2B%20FireBase)/App%20Demo%20Video.gif)](https://github.com/amark720/Machine-Learning-Projects/blob/main/Text%20Recognizer%20Android%20App%20(ML%20Kit%20%2B%20FireBase)/App%20Demo%20Video.gif)
 
-Follow the instructions mentioned there into the Python file to rerun this project into your local machine. And keep in mind that We've to change the text Preprocessing code as per the Invoice format you're going to put into the program. I've designed it specifically for this Invoice image.
+**Note:**
+* Anyone can try this app on their Android device. Just download TextRecognizer.apk from the above uploaded files and install it on your device and try the App.
+* If you want to Modify and further improve the App then, Download "TextRecognizer Full Project.zip" and after extracting it, import the project into Android Studio.
+
+
+## Screenshot:
+
+#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Landing Page! &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Output Page!
+<img src="https://github.com/amark720/Machine-Learning-Projects/blob/main/Text%20Recognizer%20Android%20App%20(ML%20Kit%20%2B%20FireBase)/ScreenShot.jpg" alt="Landing Page" height="70%" width="80%">
+
 
 #### Feel Free to contact me at➛ amark720@gmail.com for any help related to this Project!
+
+<!-- References:
+Course - https://www.udemy.com/course/text-recognizer-in-android-using-ml-kit/
+Badges - https://github.com/Ileriayo/markdown-badges
+-->
