@@ -8,5 +8,6 @@
 
 <img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Machine%20Learning%20Project.jpg" alt="Landing Page" height="50%" width="70%" />
 
+### Don't forget to ⭐ the repository, if it helped you in anyway.
 
 #### Feel Free to contact me at➛ amark720@gmail.com for any help related to Projects in this Repository!
