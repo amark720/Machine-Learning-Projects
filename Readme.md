@@ -6,7 +6,10 @@
 • Datasets are provided in each of the folders above, and the solution to the problem statements as well.<br>
 • Visit each folder to access the Projects in detail.
 
-<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Machine%20Learning%20Project.jpg" alt="Landing Page" height="50%" width="70%" />
+<img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/Machine%20Learning%20Project.jpg" alt="Landing Page" height="50%" width="70%" /> <br>
+
+### Repo Stats:
+[![GitHub](https://img.shields.io/github/followers/amark720?style=social)](https://github.com/amark720)  &ensp;  [![GitHub](https://img.shields.io/github/stars/amark720/Machine-Learning-Projects?style=social)](https://github.com/amark720/Machine-Learning-Projects)  &ensp;  [![GitHub](https://img.shields.io/github/forks/amark720/Machine-Learning-Projects?style=social)](https://github.com/amark720/Machine-Learning-Projects)
 
 ### Don't forget to ⭐ the repository, if it helped you in anyway.
 
