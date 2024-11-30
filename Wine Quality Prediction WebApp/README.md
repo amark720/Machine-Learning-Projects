@@ -1,4 +1,4 @@
-# Wine Quality Prediction WebApp 🍷✨  
+# Wine Quality Prediction WebApp 🍷🤖📈
 
 Welcome to the **Wine Quality Prediction WebApp** folder, a part of my **Machine Learning Projects** repository! This folder provides an overview of the Wine Quality Prediction project, a powerful application designed to predict the quality of wine based on specific features. To explore the project in detail, including all files, workflows, and deployment steps, please visit the [**Original Repository**](https://github.com/amark720/Wine-Quality-Prediction).  
 
@@ -42,4 +42,4 @@ Feel free to explore, fork, or contribute to the projects! If you have any quest
 📧 **Email:** databoyamar@gmail.com  
 🌐 **Website:** [**AmarKumar.in**](https://AmarKumar.in)  
 
-🙏 Thank you for visiting this folder! Head over to the [**Original Repository**](https://github.com/amark720/Wine-Quality-Prediction) to dive deeper into this exciting project. 🍷✨  
+🙏 Thank you for visiting this folder! Head over to the [**Original Repository**](https://github.com/amark720/Wine-Quality-Prediction) to dive deeper into this exciting project. 📊🍇🍷  
